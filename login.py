@@ -1,4 +1,4 @@
- # login.py
+# login.py
 
 # Predefined username and password
 USERNAME = "admin"
@@ -13,3 +13,4 @@ if input_username == USERNAME and input_password == PASSWORD:
     print("✅ Login successful!")
 else:
     print("❌ Invalid username or password.")
+
