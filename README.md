@@ -1,4 +1,4 @@
-🌍 CleanDrive – Make Every Ride a Greener One
+**🌍 CleanDrive – Make Every Ride a Greener One**
 
 CleanDrive is a data-driven project that analyzes vehicle characteristics to estimate environmental impact. It helps users understand how different vehicle choices influence air pollution and supports awareness toward sustainable transportation through simple and interactive predictions.
 
