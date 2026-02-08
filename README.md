@@ -10,17 +10,10 @@ CleanDrive is a data-driven project that analyzes vehicle characteristics to est
 ✔ Lightweight web deployment for easy access
 
 🔹 Tools & Technologies
-
 Client Side
-
 HTML
-
 CSS
-
 Server Side & ML
-
 Python
-
 Streamlit
-
 Machine Learning Algorithms
