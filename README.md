@@ -14,13 +14,13 @@ CleanDrive is a data-driven project that analyzes vehicle characteristics to est
 
 **Tools & Technologies**
 
-Client Side
+**Client Side**
 
 HTML
 
 CSS
 
-Server Side & ML
+**Server Side & ML**
 
 Python
 
